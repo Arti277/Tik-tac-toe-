@@ -1,6 +1,6 @@
 # 🎮 Tic Tac Toe Game  
 
-![Tic Tac Toe Screenshot](images/screenshot.png)
+![Tic Tac Toe Screenshot](ticscreen.png)
 
 This is a simple **Tic Tac Toe game** built using **HTML, CSS, and JavaScript**.  
 It’s a fun project that helped me understand basic web development concepts.
@@ -44,12 +44,5 @@ It’s a fun project that helped me understand basic web development concepts.
 - Add animations and sound  
 
 ---
-
-## 📁 How to Run  
-
-Download or clone this repo and open **index.html** in your browser.
-
----
-
 ## 📸 Screenshot  
-![Tic Tac Toe Screenshot](ticscreen.png)
+![Tic-Tac Toe Screenshot](ticscreen.png)
